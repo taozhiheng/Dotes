@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingMenu"><attr format="dimension" name="rightPadding"/></declare-styleable>
+    <!-- From: file:/home/taozhiheng/AndroidStudioProjects/SurroundMenu/slidingmenu/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SlidingMenu</string>
+</resources>

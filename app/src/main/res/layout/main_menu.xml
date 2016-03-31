@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <Button
+        android:layout_centerHorizontal="true"
+        android:text="@string/main_function1"
+        android:layout_above="@+id/two"
+        android:id="@+id/one"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:drawableLeft="@drawable/notebook" />
+
+    <Button
+        android:layout_centerHorizontal="true"
+        android:text="@string/main_function2"
+        android:layout_centerVertical="true"
+        android:id="@+id/two"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:drawableLeft="@drawable/notebook" />
+
+
+    <Button
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:text="@string/main_function3"
+        android:layout_centerVertical="true"
+        android:id="@+id/three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/notebook" />
+
+
+    <Button
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:text="@string/main_function4"
+        android:layout_below="@id/three"
+        android:id="@+id/four"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:drawableLeft="@drawable/notebook" />
+
+
+    <Button
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:text="@string/main_function5"
+        android:layout_below="@id/four"
+        android:id="@+id/five"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:drawableLeft="@drawable/notebook" />
+
+</RelativeLayout>

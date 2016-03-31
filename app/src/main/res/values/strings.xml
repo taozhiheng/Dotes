@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dotes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_main_create">新建</string>
+    <string name="action_main_more">更多</string>
+    <string name="action_main_delete">删除</string>
+    <string name="action_main_cancel">取消</string>
+    <string name="action_drag_add">新增</string>
+    <string name="action_drag_shape">形状</string>
+    <string name="action_drag_shape_circle">圆</string>
+    <string name="action_drag_shape_star">星</string>
+    <string name="action_drag_shape_heart">心</string>
+    <string name="action_drag_more">更多</string>
+    <string name="action_drag_complete">完成</string>
+    <string name="action_drag_remove">移除</string>
+    <string name="action_drag_rename">重命名</string>
+    <string name="action_content_rename">重命名</string>
+
+    <string name="main_function1">安全</string>
+    <string name="main_function2">主题</string>
+    <string name="main_function3">待定</string>
+    <string name="main_function4">待定</string>
+    <string name="main_function5">待定</string>
+
+    <string name="content_hint">请输入文本</string>
+
+
+    <color name="dark">#aa888888</color>
+    
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="LightPink">#FFB6C1</color>
+    <color name="SpringGreen">#00FA9A</color>
+
+    <color name="SelectedColor">#ff0596f6</color>
+    <color name="OuterSelectedColor">#ff8cbad8</color>
+    <color name="ErrorColor">#ffea0945</color>
+    <color name="outerErrorColor">#ff8cbad8</color>
+    <color name="dotColor">#ffd9d9d9</color>
+    <color name="outerDotColor">#ff929292</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slidingmenu.src.main.java.com.example.taozhiheng.slidingmenu.SlidingMenu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main"
+    android:id="@+id/sliding">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <include layout="@layout/main_menu" />
+        <include layout="@layout/main_content"/>
+    </LinearLayout>
+</slidingmenu.src.main.java.com.example.taozhiheng.slidingmenu.SlidingMenu>
